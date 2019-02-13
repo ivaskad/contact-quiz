@@ -1,0 +1,22 @@
+{
+  "name": "contact-quiz",
+  "version": "1.0.0",
+  "description": "Kontakty a kvíz",
+  "main": "dist/main.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivaskad/contact-quiz.git"
+  },
+  "author": "Dominik Ivaška",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivaskad/contact-quiz/issues"
+  },
+  "homepage": "https://github.com/ivaskad/contact-quiz#readme"
+}

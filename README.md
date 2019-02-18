@@ -28,16 +28,7 @@ Poté je potřeba nainstalovat závislé balíčky pomocí následujícího př�
 
 ### Spuštění
 
-
-
-```
-
-```
-
-### Vývoj
-
-
-Vývojový server spustíte příkazem
+Vstupte do adresáře a zadejte příkaz 
 
 ```
     npm run dev

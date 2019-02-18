@@ -4,7 +4,9 @@ import Contacts from './Pages/Contacts.vue'
 import Quiz from './Pages/Quiz.vue'
 import VueRouter from 'vue-router'
 
+import '../assets/app.styl'
 import '../assets/app.css'
+
 import 'bootstrap'
 import 'bootstrap-4-stylus'
 

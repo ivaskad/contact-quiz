@@ -1,2 +1,23 @@
 @import 'variables';
 @import '../node_modules/bootstrap-4-stylus/bootstrap';
+
+body
+  background white
+  color: #000
+
+.contact.card
+  background-color $yellow
+  .card-actions
+    position absolute
+    right 0
+    a
+      font-size 1.5em
+      opacity 0
+      transition opacity 300ms ease-in-out
+  &:hover
+    .card-actions
+      a
+        opacity 1
+        color darken($yellow, 20)
+        &:hover
+          color: darken($yellow, 50)
